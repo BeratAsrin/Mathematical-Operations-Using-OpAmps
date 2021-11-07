@@ -1,0 +1,21 @@
+Circuit: * C:\Users\berat\Desktop\Electronics 2\Project\Log\logOpamp.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Jun 11 17:23:00 2021
+Total elapsed time: 5.376 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 400063
+traniter = 400046
+tranpoints = 200024
+accept = 200024
+rejected = 0
+matrix size = 79
+fillins = 86
+solver = Normal
+Matrix Compiler1: 7.07 KB object code size  1.1/0.6/[0.2]
+Matrix Compiler2: 7.53 KB object code size  0.5/0.7/[0.3]
+
